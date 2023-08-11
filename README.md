@@ -54,7 +54,7 @@ P-DIAMOND BRAC Study
 
 PeptideGroups.txt
 
-![PSMs.txt]([https://s3-us-west-2.amazonaws.com/secure.notion-static.com/221ba8ce-a275-4e65-bd1d-b3b55a7cbbd7/Untitled.png](https://github.com/HanyangBISLab/BRCA_2023/blob/main/img/PSMs.png))
+![PSMs.txt](https://github.com/HanyangBISLab/BRCA_2023/blob/main/img/PSMs.png)
 
 PSMs.txt
 
